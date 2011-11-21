@@ -2,3 +2,40 @@ body {
   margin: 0 auto;
   padding: 0;
 }
+
+#header{
+  height: 100px;
+  width: 400px;
+  background-color: green;
+}
+
+#body_left {
+  float: left;
+  height: 600px;
+  width: 100px;
+  background-color: black;
+  color: white;
+}
+
+#body_main {
+  float: left;
+  height: 600px;
+  width: 600px;
+  background-color: red;
+}
+
+#body_right {
+  float: left;
+  height: 600px;
+  width: 100px;
+  background-color: black;
+  color: white;
+}
+
+#footer {
+  float: left;
+  height: 50px;
+  width: 900px;
+  background: black;
+  color: white;
+}
