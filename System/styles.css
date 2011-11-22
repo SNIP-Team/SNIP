@@ -1,20 +1,25 @@
 body {
   margin: 0 auto;
   padding: 0;
+  width: 860px;
 }
 
 #header{
   height: 100px;
-  width: 400px;
-  background-color: green;
+  width: 854px;
+  background-color: black;
+  color: white;
+  border: 1px solid grey;
+  margin-top:15px;
 }
 
 #body_left {
   float: left;
   height: 600px;
-  width: 100px;
+  width: 125px;
   background-color: black;
   color: white;
+  border: 1px solid grey;
 }
 
 #body_main {
@@ -22,20 +27,23 @@ body {
   height: 600px;
   width: 600px;
   background-color: red;
+  border: 1px solid grey;
 }
 
 #body_right {
   float: left;
   height: 600px;
-  width: 100px;
+  width: 125px;
   background-color: black;
   color: white;
+  border: 1px solid grey;
 }
 
 #footer {
   float: left;
-  height: 50px;
-  width: 900px;
+  height: 30px;
+  width: 854px;
   background: black;
   color: white;
+  border: 1px solid grey;
 }

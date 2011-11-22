@@ -12,16 +12,15 @@
 	<link rel="stylesheet" type="text/css" href="styles.css" />
   </head>
   <div id="header">
-    <!-- HEADDER MARKER -->
-	HEAAAAADEEEEER
+    <center>header Content</center>
   </div>
   <body>
     <div id="body_left">
-	LEEEEEEEFFFFT
+	  <center>body_left Content</center>
 	</div>
 	<div id="body_main">
 	   <center>
-	   BOOOOOOOOODDDDDDDY MAAAIIIN
+	   <center>body_main Content</center>
 	     <form input="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
 	       Username : <input type="text" size="30" name="username" /><br />
 		   Password : &nbsp;<input type="password" size="30" name="password" /><br />
@@ -36,11 +35,10 @@
 	  </center>
 	</div>
 	<div id="body_right">
-	BOOODDYYYYYY RIGHT
+	<center>body_right Content</center>
 	</div>
   </body>
   <div id="footer">
-    <!-- FOOTER MARKER -->
-	FOOOOOOTTTEEEER
+    <center>footer Content</center>
   </div>
 </html>
