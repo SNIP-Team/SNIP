@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>SNIP Projektmappe</title>
+	<meta name="author" content="SNIP-Team"/>
+	<meta name="comment" content="In diesem Dokument wird das 
+Projekt SNIP dokumentiert."/>
+</head>
+<body>
+<h1 id="einleitung">Einleitung</h1>
+
+<p>In der folgenden Mappe dokumentieren wir unser Projekt SNIP.</p>
+
+<h1 id="anforderungen">Anforderungen</h1>
+
+<h2 id="anforderungenandieanwendung">Anforderungen an die Anwendung</h2>
+
+<h3 id="primreanforderungen">Primäre Anforderungen</h3>
+
+<ul>
+<li>Speicherung eines kompletten Gebäudeplans(wie einer Schule) in MYSQL</li>
+<li>Das Abfragen der Position eines Raumes(Stockwerk, Anzeige eines Plans) in PHP</li>
+<li>Mehr&#8230;</li>
+</ul>
+
+<h3 id="sekundreanforderungendaevtl.zeitaufwending">Sekundäre Anforderungen(da evtl. Zeitaufwending)</h3>
+
+<ul>
+<li>Navigation von einem Raum zu einem anderen Raum
+
+<ul>
+<li>Anhand einer Karte mit Pfad</li>
+<li>Mit ausdruckbarer Wegbeschreibung</li>
+</ul></li>
+</ul>
+
+<h2 id="anforderungslisteandiedatenbank">Anforderungsliste an die Datenbank</h2>
+
+<ol>
+<li>Welche Gebäude gibt es?</li>
+<li>Jedes Gebäude hat eine Flügel Kennzeichnung.</li>
+<li>Welche Stockwerke gibt es?</li>
+<li>Jedes Stockwerk hat eine Nummer.</li>
+<li>Welche Räume gibt es?</li>
+<li>Jeder Raum hat eine Nummer, eine Kennzeichnung und einen Betreuer.</li>
+<li>Welche Nodes gibt es?</li>
+<li>Ein Node hat eine X- und eine Y-Koordinate.</li>
+<li>Ein Stockwerk befindet sich in einem Gebäude, aber ein Gebäude kann mehrere Stockwerke haben.</li>
+<li>Ein Raum ist in einem Stockwerk, aber ein Stockwerk kann mehrere Räume haben.</li>
+<li>Ein Raum hat mehrere Nodes, aber eine Node gehört immer nur zu einem Raum.</li>
+</ol>
+
+<h1 id="daser-modell">Das ER-Modell</h1>
+
+<p>Das ER-Modell von SNIP stellt alle Entitäten der Anforderungsliste da.</p>
+
+<p>Bild(muss noch hinzugefuegt werden):
+<img src="er-modell.png" alt="ER-Modell" title="ER-Modell" /></p>
+
+<h1 id="arbeitsprotokoll">Arbeitsprotokoll</h1>
+
+<p>Da wir uns zum Arbeiten mit dem Versionskontrollsystem GIT auf der Plattform
+Github.com entschieden haben, kann man dort auch jeden Beitrag zum Projekt
+zurueckverfolgen. Die <a href="https://github.com/SNIP-Team/SNIP/commits/master">Commits</a>
+zeigen auf was wer wann hochgeladen hat.</p>
+</body>
+</html>

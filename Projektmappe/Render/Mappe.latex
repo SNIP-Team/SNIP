@@ -1,0 +1,87 @@
+\def\mytitle{SNIP Projektmappe}
+\def\myauthor{SNIP-Team}
+\def\comment{In diesem Dokument wird das 
+Projekt SNIP dokumentiert.}
+\part{Einleitung}
+\label{einleitung}
+
+In der folgenden Mappe dokumentieren wir unser Projekt SNIP.
+
+\part{Anforderungen}
+\label{anforderungen}
+
+\chapter{Anforderungen an die Anwendung}
+\label{anforderungenandieanwendung}
+
+\section{Primäre Anforderungen}
+\label{primreanforderungen}
+
+\begin{itemize}
+\item Speicherung eines kompletten Gebäudeplans(wie einer Schule) in MYSQL
+
+\item Das Abfragen der Position eines Raumes(Stockwerk, Anzeige eines Plans) in PHP
+
+\item Mehr{\ldots}
+
+\end{itemize}
+
+\section{Sekundäre Anforderungen(da evtl. Zeitaufwending)}
+\label{sekundreanforderungendaevtl.zeitaufwending}
+
+\begin{itemize}
+\item Navigation von einem Raum zu einem anderen Raum
+
+\begin{itemize}
+\item Anhand einer Karte mit Pfad
+
+\item Mit ausdruckbarer Wegbeschreibung
+
+\end{itemize}
+
+\end{itemize}
+
+\chapter{Anforderungsliste an die Datenbank}
+\label{anforderungslisteandiedatenbank}
+
+\begin{enumerate}
+\item Welche Gebäude gibt es?
+
+\item Jedes Gebäude hat eine Flügel Kennzeichnung.
+
+\item Welche Stockwerke gibt es?
+
+\item Jedes Stockwerk hat eine Nummer.
+
+\item Welche Räume gibt es?
+
+\item Jeder Raum hat eine Nummer, eine Kennzeichnung und einen Betreuer.
+
+\item Welche Nodes gibt es?
+
+\item Ein Node hat eine X- und eine Y-Koordinate.
+
+\item Ein Stockwerk befindet sich in einem Gebäude, aber ein Gebäude kann mehrere Stockwerke haben.
+
+\item Ein Raum ist in einem Stockwerk, aber ein Stockwerk kann mehrere Räume haben.
+
+\item Ein Raum hat mehrere Nodes, aber eine Node gehört immer nur zu einem Raum.
+
+\end{enumerate}
+
+\part{Das ER-Modell}
+\label{daser-modell}
+
+Das ER-Modell von SNIP stellt alle Entitäten der Anforderungsliste da.
+
+Bild(muss noch hinzugefuegt werden):
+\includegraphics[keepaspectratio,width=\textwidth,height=0.75\textheight]{er-modell.png}
+
+
+\part{Arbeitsprotokoll}
+\label{arbeitsprotokoll}
+
+Da wir uns zum Arbeiten mit dem Versionskontrollsystem GIT auf der Plattform
+Github.com entschieden haben, kann man dort auch jeden Beitrag zum Projekt
+zurueckverfolgen. Die \href{https://github.com/SNIP-Team/SNIP/commits/master}{Commits}\footnote{\href{https://github.com/SNIP-Team/SNIP/commits/master}{https:/\slash github.com\slash SNIP-Team\slash SNIP\slash commits\slash master}}
+zeigen auf was wer wann hochgeladen hat.
+\end{document}
