@@ -7,6 +7,31 @@ Comment: In diesem Dokument wird das
 
 In der folgenden Mappe dokumentieren wir unser Projekt SNIP.
 
+# Warum diese Projektarbeit?
+
+## Paspartout
+
+EUER TEXT...
+
+## ExtremeCoder1337
+
+EUER TEXT...
+
+## Nischan
+
+EUER TEXT...
+
+# Programmbeschreibung
+
+SNIP steht für SchulNavigation in PHP.
+Mithilfe von SNIP soll es neuen Schülern vereinfacht werden
+bestimtme Räume in Schulen, Universitäten und sonstigen großen
+Gebäuden zu finden.
+
+SNIP soll eine Karte einblenden und es evtl. sogar ermöglichen,
+eine Art Wegbeschreibung z.B. zum Ausdrucken oder anzeigen 
+auf dem Smartphone zu erstellen. 
+
 # Anforderungen
 
 ## Anforderungen an die Anwendung
@@ -42,9 +67,45 @@ Das ER-Modell von SNIP stellt alle Entitäten der Anforderungsliste da.
 Bild(muss noch hinzugefuegt werden):
 ![ER-Modell](er-modell.png "ER-Modell")
 
+# Formularstruktur
+
+### Startseite?
+
+### Karte?
+
+### Hinzufügen von Nodes?
+
 # Arbeitsprotokoll
 
 Da wir uns zum Arbeiten mit dem Versionskontrollsystem GIT auf der Plattform
 Github.com entschieden haben, kann man dort auch jeden Beitrag zum Projekt
 zurueckverfolgen. Die [Commits](https://github.com/SNIP-Team/SNIP/commits/master)
 zeigen auf was wer wann hochgeladen hat.
+
+Um das Lesen zu vereinfachen haben wir alle unsere Änderungen hier zusammengefasst.
+
+## Paspartout
+
+EUER TEXT...
+
+## ExtremeCoder1337
+
+EUER TEXT...
+
+## Nischan
+
+EUER TEXT...
+
+# Fazit
+
+## Paspartout
+
+EUER TEXT...
+
+## ExtremeCoder1337
+
+EUER TEXT...
+
+## Nischan
+
+EUER TEXT...
