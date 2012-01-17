@@ -105,7 +105,11 @@ EUER TEXT...
 
 ## ExtremeCoder1337
 
-EUER TEXT...
+- Login Seite inklusive CSS Template erstellt [ca. 60 Minuten]
+- Eigene Funktionen erstellt und eine Config Datei angelegt [ca. 20 Minuten]
+- CSS Template erweitert und großteils auf inline Stylesheets umgestiegen [ca. 10 Minuten (Pro seite...)]
+- Images mit GIMP zurecht geschnitten und bearbeitet [ca. 30 Minuten]
+- Register Seite erstellt [ca. 60 Minuten]
 
 ## Nischan
 
