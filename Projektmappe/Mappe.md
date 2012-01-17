@@ -102,9 +102,9 @@ EUER TEXT...
 
 ## Nischan
 
-- Anforderungsliste an die Datenbank fertiggestellt.
-- ER-Model fertiggestellt.
-- Nodes für die Pläne erstellt.
+- Anforderungsliste an die Datenbank fertiggestellt. ca. 30 Minuten
+- ER-Model fertiggestellt. ca. 30 Minuten
+- Nodes für die Pläne erstellt. ca. 60 Minuten pro Stockwerk
 
 # Fazit
 
