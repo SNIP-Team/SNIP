@@ -15,7 +15,14 @@ EUER TEXT...
 
 ## ExtremeCoder1337
 
-test
+Ich hatte mich für dieses Projekt entschieden, weil Ich wusste, dass ich mein Wissen
+in php in einigen Bereichen auffrischen kann und in anderen Bereichen sogar
+komplett neue dinge lernen kann. Die Umsetzung des Projekts war jedoch nur davon
+abhängig, wie gut wir das ganze Planen und wie gut wir alle im Kontakt bleiben,
+was durch github jedoch sehr gut gelungen ist. Da Phileas und Ich ein großes Vorwissen
+in php haben war die Programmierung des ganzen nur eine "tipp-arbeit".
+
+//von Sebastian Schwarz
 
 ## Nischan
 
