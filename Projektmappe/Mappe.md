@@ -102,7 +102,9 @@ EUER TEXT...
 
 ## Nischan
 
-EUER TEXT...
+- Anforderungsliste an die Datenbank fertiggestellt.
+- ER-Model fertiggestellt.
+- Nodes für die Pläne erstellt.
 
 # Fazit
 
@@ -116,4 +118,5 @@ EUER TEXT...
 
 ## Nischan
 
-EUER TEXT...
+Momentan sind wir noch an den Grundarbeiten, aber soweit funktioniert alles so wie es soll.
+Ich denke, dass unser Projekt funktioniert wird, wie wir es uns erhoffen.
