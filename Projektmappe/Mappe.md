@@ -22,8 +22,8 @@ EUER TEXT...
 Ich habe mich für dieses Projekt entschieden, da es besonders als "Neuling" in der 
 Max-Eyth-Schule Kassel schwer ist, sich in der großen Schule zurecht zu finden,
 vorallem durch die vielen Flügel und Stockwerke.
-Als der Vorschlag kam, haben auch sofort alle dafür gestimmt, weil wir uns erhofften,
-dass es interessant wird diese umzusetzten.
+Als der Vorschlag kam, habe auch ich sofort dafür gestimmt, weil ich es mir erhoffte,
+dass es interessant wird diesen umzusetzten.
 Auch dafür stimmte, dass man bei diesem Thema die Aufgaben sehr gut einteilen kann,
 sodass Jeder Etwas zum bearbeiten hat und nicht nur bei den Anderen zuschaut.
 
