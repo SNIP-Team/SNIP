@@ -119,4 +119,4 @@ EUER TEXT...
 ## Nischan
 
 Momentan sind wir noch an den Grundarbeiten, aber soweit funktioniert alles so wie es soll.
-Ich denke, dass unser Projekt funktioniert wird, wie wir es uns erhoffen.
+Ich denke, wennn unser Projekt fertig gestellt ist, wird alles so sein wie wir es uns vorstellen.
