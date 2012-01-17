@@ -125,7 +125,10 @@ EUER TEXT...
 
 ## ExtremeCoder1337
 
-EUER TEXT...
+Das Projekt ist nun schon fast fertig, dass Login/Register Script funktioniert einwandfrei 
+inklusive aller abfragen um Fehler zu verhindern und Magic Quotes zu blockieren. Es fehlt
+jediglich nur noch die Einbindung einer grafischen oberfläche und das anpassen unserer selbst 
+geschriebenen Klassen um das Projekt fertig zu stellen.
 
 ## Nischan
 
