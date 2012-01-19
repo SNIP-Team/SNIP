@@ -7,43 +7,56 @@ Comment: In diesem Dokument wird das
 
 In der folgenden Mappe dokumentieren wir unser Projekt SNIP.
 
-# Warum diese Projektarbeit?
+# Vorwort
 
-## Paspartout
+Im Vorwort möchten wir zeigen, warum wir uns für das Projekt entschieden haben.
 
-EUER TEXT...
+## Warum habe ich mich für diese Projektarbeit entschieden 
 
-## ExtremeCoder1337
+### Paspartout
 
-Ich hatte mich für dieses Projekt entschieden, weil Ich wusste, dass ich mein Wissen
-in php in einigen Bereichen auffrischen kann und in anderen Bereichen sogar
-komplett neue dinge lernen kann. Die Umsetzung des Projekts war jedoch nur davon
+Ursprünglich wollte unsere Gruppe eine Datenbank für Smartphones entwerfen.
+Doch ich wollte etwas entwickeln, was praktisch für den Alltag wäre.
+Deswegen hatte ich erst den Vorschlag gemacht ein semantisches Netz in PHP
+zu implementieren, was aber für meine Gruppe doch etwas zu komplex war.
+Dann habe ich vorgeschlagen eine Art Schulnavi zu programmieren und die ganze
+Gruppe war zu meiner Freude damit einverstanden. Besonders das Arbeiten im Team
+ist eine Sache die man nach und nach lernen muss aber meiner Meinung nach auch sehr
+viel mehr Spaß macht als alleine an einem Projekt zu arbeiten.
+
+### ExtremeCoder1337
+
+Ich hatte mich für dieses Projekt entschieden, weil ich wusste, dass ich mein Wissen
+in PHP in einigen Bereichen auffrischen kann und in anderen Bereichen sogar
+komplett neue Dinge lernen kann. Die Umsetzung des Projekts war jedoch nur davon
 abhängig, wie gut wir das ganze Planen und wie gut wir alle im Kontakt bleiben,
-was durch github jedoch sehr gut gelungen ist. Da Phileas und Ich ein großes Vorwissen
-in php haben war die Programmierung des ganzen nur eine "tipp-arbeit".
+was durch Github.com jedoch sehr gut gelungen ist. Da Paspartout und Ich ein großes Vorwissen
+in PHP haben war und ist die Programmierung des ganzen nur eine "Tipp-Arbeit".
 
-//von Sebastian Schwarz
-
-## Nischan
+### Nischan
 
 Ich habe mich für dieses Projekt entschieden, da es besonders als "Neuling" in der 
 Max-Eyth-Schule Kassel schwer ist, sich in der großen Schule zurecht zu finden,
-vorallem durch die vielen Flügel und Stockwerke.
-Als der Vorschlag kam, habe auch ich sofort dafür gestimmt, weil ich es mir erhoffte,
-dass es interessant wird diesen umzusetzten.
+vor allem durch die vielen Flügel und Stockwerke.
+Als der Vorschlag kam, habe auch ich sofort dafür gestimmt, weil ich mir erhoffte,
+dass es interessant wird dieses Projekt umzusetzen.
 Auch dafür stimmte, dass man bei diesem Thema die Aufgaben sehr gut einteilen kann,
-sodass Jeder Etwas zum bearbeiten hat und nicht nur bei den Anderen zuschaut.
+sodass jeder etwas zum bearbeiten hat und nicht nur bei den Anderen zuschaut.
 
-//von Chris Johannsen
+# Einleitung
 
-# Programmbeschreibung
+Auf dieser Seite bieten wir einen kleinen Einblick darüber, was SNIP eigentlich ist,
+welche Anforderungen wir haben und stellen dazu noch das ER-Modell sowie eine
+vorläufige Version unserer Formularstruktur vor.
+
+## Programmbeschreibung
 
 SNIP steht für SchulNavigation in PHP.
-Mithilfe von SNIP soll es neuen Schülern vereinfacht werden
-bestimtme Räume in Schulen, Universitäten und sonstigen großen
+Mithilfe von SNIP soll es neuen Schülern und Besuchern vereinfacht werden
+bestimmte Räume in Schulen, Universitäten und sonstigen großen
 Gebäuden zu finden.
 
-SNIP soll eine Karte einblenden und es evtl. sogar ermöglichen,
+SNIP soll eine Karte einblenden und es eventuell sogar ermöglichen,
 eine Art Wegbeschreibung z.B. zum Ausdrucken oder anzeigen 
 auf dem Smartphone zu erstellen. 
 
@@ -56,7 +69,7 @@ auf dem Smartphone zu erstellen.
 - Das Abfragen der Position eines Raumes(Stockwerk, Anzeige eines Plans) in PHP
 - Mehr...
 
-### Sekundäre Anforderungen(da evtl. Zeitaufwending)
+### Sekundäre Anforderungen(da evtl. Zeitaufwendig)
 - Navigation von einem Raum zu einem anderen Raum
     - Anhand einer Karte mit Pfad
     - Mit ausdruckbarer Wegbeschreibung
@@ -75,33 +88,46 @@ auf dem Smartphone zu erstellen.
 10. Ein Raum ist in einem Stockwerk, aber ein Stockwerk kann mehrere Räume haben.
 11. Ein Raum hat mehrere Nodes, aber eine Node gehört immer nur zu einem Raum.
 
-# Das ER-Modell
+## Das ER-Modell
 
 Das ER-Modell von SNIP stellt alle Entitäten der Anforderungsliste da.
 
-Bild(muss noch hinzugefuegt werden):
+Bild(muss noch hinzugefügt werden):
 ![ER-Modell](er-modell.png "ER-Modell")
 
-# Formularstruktur
+## Formularstruktur
 
-### Startseite?
+### Startseite
 
-### Karte?
+Auf der Startseite kann man sich einloggen und sich einen Benuterprofil erstellen.
+Beim Login wird abgefragt, welchen Benutzernamen und welches Passwort man besitzt.
 
-### Hinzufügen von Nodes?
+Beim Registrieren muss man seinen gewünschten Benutzernamen, sein Passwort und seine
+E-Mail Adresse angeben.
 
-# Arbeitsprotokoll
+### Karte(Suche nach Räumen)
+
+Das Suchen vor Räumen auf einer Karte beziehungsweise in einem Gebäude wird durch
+ein Suchfeld ermöglicht werden.
+
+# Protokoll
 
 Da wir uns zum Arbeiten mit dem Versionskontrollsystem GIT auf der Plattform
 Github.com entschieden haben, kann man dort auch jeden Beitrag zum Projekt
-zurueckverfolgen. Die [Commits](https://github.com/SNIP-Team/SNIP/commits/master)
+zurückverfolgen. Die [Commits](https://github.com/SNIP-Team/SNIP/commits/master)
 zeigen auf was wer wann hochgeladen hat.
 
 Um das Lesen zu vereinfachen haben wir alle unsere Änderungen hier zusammengefasst.
 
 ## Paspartout
 
-EUER TEXT...
+- ER-Modell für das Karten-System in PHP erweitert [ca. 20 Minuten]
+- Erste Tests mit PHP und GD zum Zeichnen gemacht[ca. 60 Minuten]
+- Die ersten Klassen in PHP implementiert[ca. 30 Minuten]
+- Nischan in das zeichnen der Karten eingeweist[ca. 30 Minuten]
+- Aufgaben analysiert, verteilt und verwaltet[ca. 30 Minuten]
+- Projektmanagement strukturiert und erstellt [ca. 90 Minuten]
+- Logo für SNIP designt[40 Minuten]
 
 ## ExtremeCoder1337
 
@@ -113,24 +139,32 @@ EUER TEXT...
 
 ## Nischan
 
-- Anforderungsliste an die Datenbank fertiggestellt. ca. 30 Minuten
-- ER-Model fertiggestellt. ca. 30 Minuten
-- Nodes für die Pläne erstellt. ca. 60 Minuten pro Stockwerk
+- Anforderungsliste an die Datenbank fertiggestellt. [ca. 30 Minuten]
+- ER-Modell fertiggestellt. [ca. 30 Minuten]
+- Nodes für die Pläne erstellt. ca. [60 Minuten pro Stockwerk]
 
 # Fazit
 
 ## Paspartout
 
-EUER TEXT...
+Bis jetzt bin ich wirklich zufrieden mit der Arbeit an dem Projekt.
+Was uns sehr viel Arbeit abnimmt ist wie schon früher in dieser Mappe erwähnt,
+dass arbeiten mit einem Versionskontrollsystem wie GIT auf Github.com.
+Obgleich wir noch einiges an Arbeit vor uns haben, freue ich mich schon darauf
+das Programm einmal in Aktion zu sehen. Mir ist aufgefallen, dass man beim Arbeiten
+im Team wirklich darauf achten muss sich selbst nicht zu hoch einzuschätzen, auf Vorschläge
+einzugehen und bereit sein muss eigene Paradigmen aufzugeben oder abzuändern.
+Trotz einiger Probleme die es zu lösen gab und auch noch gibt, macht mir das Arbeiten im Team 
+aber sehr viel Spaß.
 
 ## ExtremeCoder1337
 
-Das Projekt ist nun schon fast fertig, dass Login/Register Script funktioniert einwandfrei 
+Das Projekt ist nun schon fast fertig, dass Login/Register Skript funktioniert einwandfrei 
 inklusive aller abfragen um Fehler zu verhindern und Magic Quotes zu blockieren. Es fehlt
-jediglich nur noch die Einbindung einer grafischen oberfläche und das anpassen unserer selbst 
+lediglich nur noch die Einbindung einer grafischen Oberfläche und das anpassen unserer selbst 
 geschriebenen Klassen um das Projekt fertig zu stellen.
 
 ## Nischan
 
 Momentan sind wir noch an den Grundarbeiten, aber soweit funktioniert alles so wie es soll.
-Ich denke, wennn unser Projekt fertig gestellt ist, wird alles so sein wie wir es uns vorstellen.
+Ich denke, wenn unser Projekt fertig gestellt ist, wird alles so sein wie wir es uns vorstellen.
