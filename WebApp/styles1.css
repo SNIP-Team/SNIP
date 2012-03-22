@@ -1,0 +1,70 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 860px;
+  overflow: hidden;
+}
+
+#header{
+  height: 100px;
+  width: 854px;
+  margin-top:15px;
+  font-size:25px;
+}
+
+#body_left {
+  float: left;
+  height: 600px;
+  width: 125px;
+}
+
+#body_main {
+  float: left;
+  height: 100px;
+  width: 600px;
+}
+
+#login_form_text {
+  margin-left: -345px !important;
+  margin-bottom: 43px !important; 
+  margin-right: -52px !important;
+  margin-top: -59px !important;
+}
+
+#body_right {
+  float: left;
+  height: 600px;
+  width: 125px;
+}
+
+#footer a{
+  height: 30px;
+  width: 854px;
+  text-decoration: none;
+}
+
+#footer a:hover{
+  height: 30px;
+  width: 854px;
+  color: red !important;
+  text-decoration: none !important;
+}
+
+#footer a:visited{
+  color: blue;
+  text-decoration: none !important;
+}
+
+#body_main a{
+  text-decoration: none;
+}
+
+#body_main a:hover{
+  color: red !important;
+  text-decoration: !important;
+}
+
+#body_main a:visited{
+  color: blue;
+  text-decoration: none !important;
+}

@@ -2,6 +2,7 @@ body {
   margin: 0 auto;
   padding: 0;
   width: 860px;
+  overflow: hidden;
 }
 
 #header{
@@ -46,9 +47,24 @@ body {
   height: 30px;
   width: 854px;
   color: red !important;
-  text-decoration: !important;
+  text-decoration: none !important;
 }
 
 #footer a:visited{
-  color: black;
+  color: blue;
+  text-decoration: none !important;
+}
+
+#body_main a{
+  text-decoration: none;
+}
+
+#body_main a:hover{
+  color: red !important;
+  text-decoration: !important;
+}
+
+#body_main a:visited{
+  color: blue;
+  text-decoration: none !important;
 }

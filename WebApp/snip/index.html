@@ -1,0 +1,77 @@
+<!doctype html> <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+	<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>SNIP - Kartensansicht</title>
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<meta name="viewport" content="width=device-width">
+		<link rel="stylesheet" href="../css/bootstrap.css">
+		<link rel="stylesheet" href="../css/leaflet.css">
+		
+		<!--[if lte IE 8]>
+		    <link rel="stylesheet" href="../css/leaflet.ie.css" />
+		<![endif]-->
+		
+		<link rel="stylesheet" href="../css/style.css">
+		<script src="../js/libs/modernizr-2.5.3-respond-1.1.0.min.js"></script>
+	</head>
+	<body>
+		<div class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
+					<a class="brand" href="#">SNIP</a>
+					<div class="nav-collapse">
+						<ul class="nav">
+							<li class="active">
+								<a href="#">Karte</a>
+							</li>
+							<li>
+								<a href="#about">Karteneditor</a>
+							</li>
+							<li>
+								<a href="#contact">Dokumentation</a>
+							</li>
+						</ul>
+					</div><!--/.nav-collapse -->
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<a href="http://github.com/SNIP-Team/SNIP"><img style="position: absolute; top: 40px; right: 0; border: 0;" src="https://a248.e.akamai.net/assets.github.com/img/7afbc8b248c68eb468279e8c17986ad46549fb71/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub"></a>
+
+			<div class="row">
+				<div class="span4">
+					<h2>Suche</h2>
+					<form class="form-search">
+					  <input type="text" class="input-medium search-query" data-provide="typeahead" data-items="4" data-source="[&quot;S149&quot;,&quot;S148&quot;]">
+					  <button type="submit" class="btn btn-primary"><i class="icon-search icon-white"></i> Suchen</button>
+					</form>
+					<h2>Route</h2>
+					<h3>Von Raum</h3>
+					<h3>Zu Raum</h3>
+				</div>
+				<div class="span8">
+					<div id="map" style="height: 500px"></div>
+				</div>
+			</div>
+
+		</div> <!-- /container -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+		<!-- scripts concatenated and minified via ant build script-->
+		<script src="../js/libs/bootstrap/typeahead.js"></script>
+		<script src="../js/libs/bootstrap/transition.js"></script>
+		<script src="../js/libs/bootstrap/collapse.js"></script>
+		<script src="../js/libs/leaflet.min.js"></script>
+		
+		<script src="../js/script.js"></script>
+		<!-- end scripts-->
+	</body>
+</html>
