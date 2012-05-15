@@ -136,6 +136,13 @@ Um das Lesen zu vereinfachen haben wir alle unsere Änderungen hier zusammengefa
 - CSS Template erweitert und großteils auf inline Stylesheets umgestiegen [ca. 10 Minuten (Pro seite...)]
 - Images mit GIMP zurecht geschnitten und bearbeitet [ca. 30 Minuten]
 - Register Seite erstellt [ca. 60 Minuten]
+- Fork us on Github Banner eingebunden [ca. 10 Minuten]
+- Bezeichnungen der Räume des Gebäudes S aufgeschrieben [ca. 180 Minuten]
+- Design der Login Seite und der Register Seite mit dem gesamten Projekt vereinheitlicht [ca. 45 Minuten]
+- Login Seite und Register Seite komplett geupdated und auf HTML5 geändert [ca. 90 Minuten]
+- Eigene SQL-Injection Funktion verbessert um noch mehr "verbotene Zeichen" abzufangen ! [ca. 20 Minuten]
+- Einige Sicherheitslücken behoben ! [ca. 15 Minuten]
+- Datenbank geleert [ca. 2 Minuten]
 
 ## Nischan
 
