@@ -149,6 +149,9 @@ Um das Lesen zu vereinfachen haben wir alle unsere Änderungen hier zusammengefa
 - Anforderungsliste an die Datenbank fertiggestellt. [ca. 30 Minuten]
 - ER-Modell fertiggestellt. [ca. 30 Minuten]
 - Nodes für die Pläne erstellt. ca. [60 Minuten pro Stockwerk]
+- Bezeichnungen der Räume des Gebäudes S aufgeschrieben [ca. 180 Minuten]
+- Kartendaten aktualisiert und Bezeichnungen und Ähnliches eingefügt [ca. 90 Minuten]
+
 
 # Fazit
 
