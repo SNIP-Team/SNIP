@@ -166,5 +166,8 @@ geschriebenen Klassen um das Projekt fertig zu stellen.
 
 ## Nischan
 
-Momentan sind wir noch an den Grundarbeiten, aber soweit funktioniert alles so wie es soll.
-Ich denke, wenn unser Projekt fertig gestellt ist, wird alles so sein wie wir es uns vorstellen.
+Bis jetzt haben wir schon die Karten fertig, das Login und eine Vorversion der Navigation.
+Das Routing durch die Einzellnen Stockwerke und Gänge erwies sich allerdings als schwerer
+als geplant, sodass wir uns dazu entschieden haben, die Räume, die gesucht werden, "aufpoppen" zu lassen.
+
+Unser Projekt könnte sicher auch in anderen Bereichen Verwendung finden und um Karten und "Nodes" erweitert werden.
