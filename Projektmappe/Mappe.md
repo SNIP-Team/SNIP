@@ -169,10 +169,14 @@ aber sehr viel Spaß.
 
 ## ExtremeCoder1337
 
-Das Projekt ist nun schon fast fertig, dass Login/Register Skript funktioniert einwandfrei 
-inklusive aller abfragen um Fehler zu verhindern und Magic Quotes zu blockieren. Es fehlt
-lediglich nur noch die Einbindung einer grafischen Oberfläche und das anpassen unserer selbst 
-geschriebenen Klassen um das Projekt fertig zu stellen.
+Das Projekt ist in den letzten Monaten von einer kleinen Idee, zu einer wirklich raffinierten Anwendung geworden.
+Die Seite um sich einen Benutzer zu erstellen und die Seite um sich mit dem Benutzer anzumelden ist auf dem aktuellsten 
+Stand von HTML5 um viele benutzerfreundliche Möglichkeiten zu realisieren und das ganze Projekt ansehnlicher wirken zu
+lassen. Durch eine von mir entwickelte "magic-quotes block" Funktion wird garantiert, dass es einem Benutzer nicht möglich
+sein wird, die Datenbank in irgendeiner Art und Weise über das Login/Register - System zu hacken !
+Durch eine gute Aufteilung der Arbeit, wurde eine optimierte Arbeitsgeschwindigkeit erreicht. Somit hat ein Team Mitglied
+wie Chrisdoph, dem das programmieren schwerer fällt, Aufgaben wie das einzeichnen der Nodes und Fotografieren der
+Räume bekommen und Team Mitglieder wie Phileas und ich uns um das wichtigere im Hintergrund gekümmert !
 
 ## Nischan
 
